@@ -16,3 +16,4 @@ Once I had the data, I formulated a series of questions that I considered fundam
 - CO2 emissions from primary fuel sources such as oil, gas, and carbon.
 
 If you would like to access the Covid data, you can find it at ourworldindata.org/coronavirus, as the file sizes exceed the capacity to upload them here.
+You can view the final dashboard on Tableau: public.tableau.com/app/profile/samael.quiros
